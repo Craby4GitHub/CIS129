@@ -1,0 +1,25 @@
+def main
+
+	create list of rent due [0, 300, 400, 250, 500, 1000]
+
+	create empty list for tenant names [0]
+
+	for apartmentnumber in a range between 1 - 6
+		display "apartment number: apartmentnumber
+		input "What is the name of the tenant in the current apartment?"
+		add name to tentant names list
+
+	create month list ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+	outer loop counter = 0
+	while the outer count <= 11:
+		set currentmonth to current loop iteration
+
+		inner count = 1
+		while inner count <= 5:
+			display rent for current inner loop iteration tenant name and then show current month
+			add one to inner counter
+		add one to outer counter
+
+main()
+

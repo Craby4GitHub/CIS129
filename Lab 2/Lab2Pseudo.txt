@@ -1,0 +1,13 @@
+Create Name variable to prompt user for the name of the cookie
+
+Create Chocolate variable that prompts the user if the cookie has Chocolate and user Name variable in question
+
+Create Peanut Butter variable that prompts the user if the cookie has Peanut Butter and user Name variable in question
+
+Create Gluten variable that prompts the user if the cookie has Gluten and user Name variable in question
+
+
+Compare users pervious input to figure out whether the cookie is good or not.
+	If it has Chocolate or Peanut Butter and it has no Gluten
+		then it is a good cookie
+		else it is a bad cookie

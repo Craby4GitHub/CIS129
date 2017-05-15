@@ -1,0 +1,11 @@
+course room = CS101:3004, CS102:4501, CS103:6755, NT110:1244, CM241:1411
+
+course teacher = CS101:Hayes, CS102:Alvardo, CS103:Rich, NT110:Burke, CM241:Lee
+
+course time = CS101:8am, CS102:9am, CS103:10am, NT110:11am, CM241:1pm
+
+user input 'What is the course number?'
+
+display 'The room for + userinput, 'is' + course room[userinput]+'.'
+display 'The teacher for + userinput, 'is' + course teacher[userinput]+'.'
+display 'The time for + userinput, 'is' + course time[userinput]+'.'

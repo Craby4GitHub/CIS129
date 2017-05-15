@@ -1,0 +1,38 @@
+create userInputNumbers list ["First Entry", "Second Entry", "Third Entry"]
+create generatedNumbers list ['Empty', 'Empty', 'Empty']
+
+define Triangle:
+	fourth =  1st userInputNumbers 2nd userInputNumbers , 3rd generatedNumbers
+	third = 3rd userInputNumbers - center it based on length of fourth
+	second = 1st userInputNumbers  - center it based on length of fourth
+	first = 2nd userInputNumbers - center it based on the sum length of second and third
+
+	Display first
+	Display Second with no new line
+	Display third
+	Display fourth
+
+def UserLoop:
+	loop three times
+		try:
+			number = int input from user
+			if number is greater than -40 and less than 40
+				set userInputNumbers[current loop iteration] euqal to number
+			else:
+				Display "Number inputed was not in correct range."
+		except ValueError:
+			Display "You did not enter a valid number."
+			exit
+
+def Math:
+	totalSum = sum of userInputNumbers as an integer devided by 2
+
+	loop three times
+		generatedNumbers[current loop iteration] = totalSum - userInputNumbers[curent loop iteration]
+
+Display "Here is the Triangle" 
+Triangle()
+UserLoop()
+Math()
+Display "Here is your final Triangle"
+Triangle()

@@ -1,0 +1,11 @@
+Here is the triangle:
+            (Empty)             
+ [Third Entry]   [First Entry]  
+(Empty)  [Second Entry]  (Empty)
+Enter a number between -40 and 40: 1
+Enter a number between -40 and 40: 2
+Enter a number between -40 and 40: 3
+Here is your final triangle.
+     (1.0)      
+  [3]     [1]   
+(2.0)  [2]  (0.0)

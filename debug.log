@@ -1,0 +1,56 @@
+[0419/170546.250:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0419/170546.260:ERROR:exception_snapshot_win.cc(87)] thread ID 10844 not found in process
+[0419/170546.261:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0419/171618.479:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0419/171618.483:ERROR:exception_snapshot_win.cc(87)] thread ID 14272 not found in process
+[0419/171618.483:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0419/171655.797:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0419/171655.801:ERROR:exception_snapshot_win.cc(87)] thread ID 11840 not found in process
+[0419/171655.801:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0419/171746.340:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0419/171746.350:ERROR:exception_snapshot_win.cc(87)] thread ID 1632 not found in process
+[0419/171746.350:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0419/182117.842:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0419/182117.847:ERROR:exception_snapshot_win.cc(87)] thread ID 10608 not found in process
+[0419/182117.847:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0419/185647.523:ERROR:process_info.cc(625)] range at 0xff16f000, size 0x230 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff16e000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff16b000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff03f000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff03c000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff039000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff036000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff168000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff033000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff030000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff02d000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff02a000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff027000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff024000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff021000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff01e000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff01b000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff018000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff015000, size 0xf84 fully unreadable
+[0419/185647.537:ERROR:process_info.cc(625)] range at 0xff012000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xff00f000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xff00c000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xff009000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xff006000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xff003000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xff000000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfeffd000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfeffa000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfeff7000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfeff4000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfeff1000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfefee000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfefeb000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfefe8000, size 0xf84 fully unreadable
+[0419/185647.538:ERROR:process_info.cc(625)] range at 0xfefe5000, size 0xf84 fully unreadable
+[0420/074932.563:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0420/074932.564:ERROR:exception_snapshot_win.cc(87)] thread ID 12180 not found in process
+[0420/074932.564:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0420/074936.762:ERROR:process_reader_win.cc(114)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0420/074936.763:ERROR:exception_snapshot_win.cc(87)] thread ID 13904 not found in process
+[0420/074936.763:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed

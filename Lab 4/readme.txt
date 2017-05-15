@@ -1,0 +1,1 @@
+I dunno, it was easy? Am I missing somthing? It seems like this lab is out of place. Seems like we did this stuff a couple weeks ago.

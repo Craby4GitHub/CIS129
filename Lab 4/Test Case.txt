@@ -1,0 +1,68 @@
+Name:	Jon
+Name:	Mary
+Name:	Beth
+Name:	Bill
+Name:	Harry
+
+Output:
+
+Rent for Jon in apt 1 is 300 this Jan
+Rent for Mary in apt 2 is 400 this Jan
+Rent for Beth in apt 3 is 250 this Jan
+Rent for Bill in apt 4 is 500 this Jan
+Rent for Harry in apt 5 is 1000 this Jan
+Rent for Jon in apt 1 is 300 this Feb
+Rent for Mary in apt 2 is 400 this Feb
+Rent for Beth in apt 3 is 250 this Feb
+Rent for Bill in apt 4 is 500 this Feb
+Rent for Harry in apt 5 is 1000 this Feb
+Rent for Jon in apt 1 is 300 this Mar
+Rent for Mary in apt 2 is 400 this Mar
+Rent for Beth in apt 3 is 250 this Mar
+Rent for Bill in apt 4 is 500 this Mar
+Rent for Harry in apt 5 is 1000 this Mar
+Rent for Jon in apt 1 is 300 this Apr
+Rent for Mary in apt 2 is 400 this Apr
+Rent for Beth in apt 3 is 250 this Apr
+Rent for Bill in apt 4 is 500 this Apr
+Rent for Harry in apt 5 is 1000 this Apr
+Rent for Jon in apt 1 is 300 this May
+Rent for Mary in apt 2 is 400 this May
+Rent for Beth in apt 3 is 250 this May
+Rent for Bill in apt 4 is 500 this May
+Rent for Harry in apt 5 is 1000 this May
+Rent for Jon in apt 1 is 300 this Jun
+Rent for Mary in apt 2 is 400 this Jun
+Rent for Beth in apt 3 is 250 this Jun
+Rent for Bill in apt 4 is 500 this Jun
+Rent for Harry in apt 5 is 1000 this Jun
+Rent for Jon in apt 1 is 300 this Jul
+Rent for Mary in apt 2 is 400 this Jul
+Rent for Beth in apt 3 is 250 this Jul
+Rent for Bill in apt 4 is 500 this Jul
+Rent for Harry in apt 5 is 1000 this Jul
+Rent for Jon in apt 1 is 300 this Aug
+Rent for Mary in apt 2 is 400 this Aug
+Rent for Beth in apt 3 is 250 this Aug
+Rent for Bill in apt 4 is 500 this Aug
+Rent for Harry in apt 5 is 1000 this Aug
+Rent for Jon in apt 1 is 300 this Sep
+Rent for Mary in apt 2 is 400 this Sep
+Rent for Beth in apt 3 is 250 this Sep
+Rent for Bill in apt 4 is 500 this Sep
+Rent for Harry in apt 5 is 1000 this Sep
+Rent for Jon in apt 1 is 300 this Oct
+Rent for Mary in apt 2 is 400 this Oct
+Rent for Beth in apt 3 is 250 this Oct
+Rent for Bill in apt 4 is 500 this Oct
+Rent for Harry in apt 5 is 1000 this Oct
+Rent for Jon in apt 1 is 300 this Nov
+Rent for Mary in apt 2 is 400 this Nov
+Rent for Beth in apt 3 is 250 this Nov
+Rent for Bill in apt 4 is 500 this Nov
+Rent for Harry in apt 5 is 1000 this Nov
+Rent for Jon in apt 1 is 300 this Dec
+Rent for Mary in apt 2 is 400 this Dec
+Rent for Beth in apt 3 is 250 this Dec
+Rent for Bill in apt 4 is 500 this Dec
+Rent for Harry in apt 5 is 1000 this Dec

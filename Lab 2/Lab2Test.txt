@@ -1,0 +1,20 @@
+Test 1:
+	Name of cookie: Sugar Cookie
+	Does it contain Chocolate? N
+	Does it contain Peanut Butter? N
+	Does it contain Gluten? N
+	Result: Sugar Cookie is a bad cookie.
+
+Test 2:
+	Name of cookie: Fudge Cookie
+	Does it contain Chocolate? Y
+	Does it contain Peanut Butter? N
+	Does it contain Gluten? N
+	Result: Fudge Cookie is a good cookie!
+
+Test 3:
+	Name of cookie: Wheat Peanut Cookie
+	Does it contain Chocolate? N
+	Does it contain Peanut Butter? Y
+	Does it contain Gluten? Y
+	Result: Wheat Peanut Cookie is a bad cookie. 
